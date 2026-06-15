@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://threejs.org/build/three.min.js"></script>
+  <script src="https://threejs.org/examples/js/controls/OrbitControls.js"></script>
+  <title>Bookstore Search</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="light-mode">
+  <!-- Navbar -->
+  <nav>
+    <div class="logo">My Bookstore</div>
+  
+    <div class="menu-toggle">☰</div> <!-- Hamburger icon for mobile -->
+  
+    <ul>
+      <li><a href="books.html">Home</a></li>
+      <li><a href="aboutus.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  
+    <div class="theme-toggle">
+      <span class="sun">☀</span>
+      <span class="moon">🌙</span>
+    </div>
+  </nav>
+  
+
+  <!-- Container -->
+  <div class="container">
+    <h1>Find Your Next Read</h1>
+    <input type="text" id="bookInput" placeholder="Search for books...">
+    <button onclick="searchBooks()">Search</button>
+    <div id="suggestionBox"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

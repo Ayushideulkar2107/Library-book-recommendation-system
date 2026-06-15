@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(135deg, #6D83F2, #A775F2); 
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+ /* Create space for the fixed navbar */
+}
+
+/* Navigation bar */
+nav {
+  background-color: #ffb6c1; /* Pink for light mode */
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  margin: 0;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 15px;
+  transition: background-color 0.3s ease;
+  border-radius: 5px;
+}
+
+nav ul li a:hover {
+  background-color: #db0058; /* Darker pink on hover */
+}
+
+.logo {
+  font-size: 24px;
+  font-family: 'Courier New', monospace;
+  font-weight: bold;
+  color: white;
+}
+
+/* Theme toggle button */
+.theme-toggle {
+  cursor: pointer;
+  font-size: 24px;
+  margin-left: 20px;
+}
+
+/* About page container */
+.about-page {
+  background: white;
+  padding: 50px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 900px;
+  text-align: center;
+}
+
+/* About header */
+.about-header h1 {
+  font-size: 36px;
+  color: #4A4A4A;
+  margin-bottom: 10px;
+}
+
+.about-header p {
+  font-size: 18px;
+  color: #7A7A7A;
+  margin-bottom: 30px;
+}
+
+.about-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-info {
+  margin-bottom: 40px;
+}
+
+.about-info h2 {
+  color: #6D83F2;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.about-info p {
+  font-size: 16px;
+  color: #4A4A4A;
+  line-height: 1.6;
+  max-width: 700px;
+}
+
+/* Team section */
+.team-section {
+  text-align: center;
+}
+
+.team-section h2 {
+  font-size: 28px;
+  color: #6D83F2;
+  margin-bottom: 20px;
+}
+
+/* Team members container */
+.team-members {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.team-member {
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  width: 200px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.team-member:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.team-member h3 {
+  font-size: 20px;
+  color: #4A4A4A;
+  margin-bottom: 5px;
+}
+
+.team-member p {
+  font-size: 14px;
+  color: #7A7A7A;
+}

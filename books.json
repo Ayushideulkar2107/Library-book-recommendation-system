@@ -1,0 +1,139 @@
+[{
+  "title": "Data structure using C & C++",
+  "author": "Langsam Yedidyah",
+  "type": "C++",
+  "description": "An introduction to the fundamentals of data structures, this book explores abstract concepts and considers how those concepts are useful in problem solving. It explains how the abstractions can be made concrete by using a programming language, and shows how to use to C language for advance programming and how to develop the advanced features of C++. It features a wealth of tested and debugged working programs in C and C++.This text is designed for courses in data structures and programming."
+},
+{
+  "title": "Let us C++",
+  "author": "Kanetkar Yashwant",
+  "type": "C++",
+  "description": " Let Us C++ can serve as a good introduction to C++, you may want to complement it with more modern resources to ensure that you're learning the latest standards and best practices. Combining different types of materials books, online courses, and documentation can provide a more rounded understanding of C++."
+},
+{
+  "title": "An Introduction to Numerical methods in C++",
+  "author": "Flowers B H",
+  "type": "C++",
+  "description": "An Introduction to Numerical Methods in C++ by B. H. Flowers is a book that explores the use of C++ for numerical methods. The book is intended for applied mathematicians and engineers who want to learn about computerized numerical methods. The book includes: Information on programming in Windows-based environments New topics and methods to clarify and enhance the subject  Numerical examples to illustrate the computational accuracy and efficiency of statistical analysis."
+},
+{
+  "title": "The C programming language",
+  "author": "Kernighan Brian",
+  "type": "C",
+  "description": "The book elaborates on the basics of procedure oriented programming and the fundamentals of writing C codes. It goes on to cover aspects like functions and loops, learning which will help novice programmers to code elementary level codes properly. "
+},
+{
+  "title": "Test Your C skills",
+  "author": "Kanetkar Yashwant",
+  "type": "C",
+  "description": "This book is not just a C skills book but it is far more than that. It contains lot of questions segregated topic wise. You can pick up any topic that you are good that and try to test your skills."
+},
+{
+  "title": "Computer Fundamentals",
+  "author": "Nagpal D P",
+  "type": "C",
+  "description": "To become computer literate, you should not only know the use of computers, but also how and where they can be used. If you are taking a course to familiarize yourself with the world of computers, Computer Fundamentals serves as an interesting and informative guide in your journey to computer literacy. "
+},
+{
+  "title": "Object Oriented Software Engineering",
+  "author": "Lethbridge Pimothy",
+  "type": "OOPS",
+  "description": "A textbook for people who know the basics of object-oriented programming and want to learn the basic principles of software engineering, including how to develop large systems using UML. Covers requirements, modelling, patterns, design, architecture, testing and basic project management. Focuses on concepts such as reuse, quality, iterative development, and risk management. Includes many exercises, including projects based on a client-server framework. Presents UML class diagrams and state diagrams in depth. Implemented examples are in Java. "
+},
+{
+  "title": "Head First Object Oriented Analysis & Design",
+  "author": "Mclaughlin Brett",
+  "type": "OOPS",
+  "description": "Head First Object Oriented Analysis and Design is a refreshing look at subject of OOAD. What sets this book apart is its focus on learning. The authors have made the content of OOAD accessible, usable for the practitioner."
+},
+{
+  "title": "Object Oriented Systems Development",
+  "author": "Bahrami Ali",
+  "type": "OOPS",
+  "description": "UML (Unified Modeling Language) has become the standard notation for modeling O-O systems and is embraced by major software developers like Microsoft and Oracle. This title covers Object Oriented (O-O) concepts, tools, development life cycle, problem solving, modeling, analysis, and design, while utilizing UML for O-O modeling. "
+},
+{
+  "title": "Discrete Mathematics ",
+  "author": "Sharma J K",
+  "type": "Mathematics",
+  "description": "The topics covered in this book have been chosen keeping in view the knowledge required to understand the functioning of the digital computer because many of its properties can be understood and interpreted within the framework of finite mathematical system. "
+},
+{
+  "title": "Engineering Mathematics",
+  "author": "Tembekar C N",
+  "type": "Mathematics",
+  "description": "Engineering mathematics is the art of applying maths to complex real-world problems; combining mathematical theory, practical engineering and scientific computing to address today's technological challenges. "
+},
+{
+  "title": "Advanced Engineering Mathematics",
+  "author": "Dass H K",
+  "type": "Mathematics",
+  "description": "Advanced Engineering Mathematics is written for the students of all engineering disciplines. Topics such as Partial Differentiation, Differential Equations, Complex Numbers, Statistics, Probability, Fuzzy Sets and Linear Programming which are an important part of all major universities have been well-explained. Filled with examples and in-text exercises, the book successfully helps the student to practice and retain the understanding of otherwise difficult concepts."
+},
+{
+  "title": "Data Structure Using C",
+  "author": "Thareja Reema",
+  "type": "DSA",
+  "description": "The book utilizes a systematic approach wherein the design of each of the data structures is followed by algorithms of different operations that can be performed on them, and the analysis of these algorithms in terms of their running times. "
+},
+{
+  "title": "Data Structure With C",
+  "author": "Lipschutz Seymor",
+  "type": "DSA",
+  "description": "The book covers a wide range of topics, including arrays, pointers, linked lists, graphs, sorting, searching, cryptography, network security, and more."
+},
+{
+  "title": "Data Structures And Algorithm",
+  "author": "Aho A V",
+  "type": "DSA",
+  "description": "An ideal book for first course on data structures and algorithms, its text ensures a style and content relevant to present-day programming. "
+},
+{
+  "title": "Data Structures & Algorithms in JAVA",
+  "author": "Goodrich .M",
+  "type": "DSA",
+  "description": "The design and analysis of efficient data structures has long been recognized as a key component of the Computer Science curriculum. Goodrich, Tomassia and Goldwasser's approach to this classic topic is based on the object-oriented paradigm as the framework of choice for the design of data structures."
+},
+{
+  "title": "Database Systems",
+  "author": "Begg Crolyn",
+  "type": "DBMS",
+  "description": " This book introduces the theory behind databases in a concise yet comprehensive manner, providing database design methodology that can be used by both technical and non-technical readers. "
+},
+{
+  "title": "Database System Implementation",
+  "author": "Widom Jennifer",
+  "type": "DBMS",
+  "description": " The coverage includes the traditional topics from the second half of the typical database book: storage systems, indexes, query processing, logging, and transaction management.  The book is written from the perspective of the database designer, user, and application programmer, and provides practical advice on how to implement database systems."
+},
+{
+  "title": "Database System Concepts",
+  "author": "Korth H F",
+  "type": "DBMS",
+  "description": "Database System Concepts by Silberschatz, Korth, and Sudarshan is a book that covers the fundamental concepts of database management. It's considered a cornerstone text for database education and is designed for a first course in databases. The book is intended for junior/senior undergraduate or first year graduate students. "
+},
+{
+  "title": "Learning Python",
+  "author": "Lutz Mark ",
+  "type": "Python",
+  "description": "Beyond language features, this edition of Learning Python also includes new context for less-experienced programmers, including fresh overviews of object-oriented programming and dynamic typing, new discussions of program launch and configuration options, new coverage of documentation sources, and more."
+},
+{
+  "title": "Introduction To Computation And Programming Using Python With Application To Understanding Data",
+  "author": "Guttag John V",
+  "type": "Python",
+  "description": " It covers such traditional topics as computational complexity and simple algorithms, the book focuses on a wide range of topics not found in most introductory texts, including information visualization, simulations to model randomness, computational techniques to understand data, and statistical techniques."
+},
+{
+  "title": "Introducation To Computation And Programming Using Python",
+  "author": "Guttag John",
+  "type": "Python",
+  "description": "This book introduces students with little or no prior programming experience to the art of computational problem solving using Python and various Python libraries, including numpy, matplotlib, random, pandas, and sklearn. It provides students with skills that will enable them to make productive use of computational techniques, including some of the tools and techniques of data science for using computation to model and interpret data as well as substantial material on machine learning."
+},
+{
+  "title": "Think Python",
+  "author": "Allen Downey",
+  "type": "Python",
+  "description": "If you want to learn how to program, working with Python is an excellent way to start. This hands-on guide takes you through the language a step at a time, beginning with basic programming concepts before moving on to functions, recursion, data structures, and object-oriented design."
+}
+]
